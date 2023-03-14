@@ -16,3 +16,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * What is the difference between the root directory and the home directory of the user root
 * What are the characteristics of hidden files and how to list them
 * What does the command cd - do
+
